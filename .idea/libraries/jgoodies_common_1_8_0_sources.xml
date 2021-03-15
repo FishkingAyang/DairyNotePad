@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jgoodies-common-1.8.0-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jgoodies-common-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-5.1.39-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jgoodies-common-1.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
